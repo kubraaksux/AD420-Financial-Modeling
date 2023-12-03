@@ -4,18 +4,14 @@
 This repository contains my homework assignment and respective solutions for AD 420 - Entrepreneurial Finance. The main focus is on developing financial models and conducting various financial analyses, such as revenue forecasting, sensitivity analysis, and creating pro forma financial statements.
 
 ## Contents
-- Homework assignments: Contains the original problem statements for each assignment.
+- Homework assignment: Contains the original problem statements for each assignment.
 - Solutions: Python scripts providing detailed solutions to each problem.
 - Financial Statements Template: Templates used for building financial models.
-
-## How to Use
-1. **Assignment description Pdf**: Navigate to the 'Assignment description' folder to view the problem statements.
-2. **Solutions**: In the 'Solutions' folder, you'll find Python scripts for each homework problem. These scripts can be run in any Python environment to understand the financial modeling process.
-3. **Financial Statements Template**: Check the 'Financial Statements Template' for the Excel templates used in the homework solutions.
 
 ## Technologies Used
 - Python: For scripting and financial calculations.
 - Pandas & NumPy: For data manipulation and numerical computations.
+- Matplotlib: For creating data visualizations and plots.
 - Excel: For initial financial modeling and template creation.
 
 ## About the Course
